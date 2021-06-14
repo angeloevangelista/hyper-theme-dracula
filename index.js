@@ -7,9 +7,9 @@ const cursorColor = '#f8f8f2';
 const colors = {
   black: '#000000',
   red: '#ff5555',
-  green: '#50fa7b',
+  green: '#9ff5b5', // #50fa7b
   yellow: '#f1fa8c',
-  blue: '#bd93f9',
+  blue: '#7159c1', // #bd93f9
   magenta: '#ff79c6',
   cyan: '#8be9fd',
   white: '#bfbfbf',
